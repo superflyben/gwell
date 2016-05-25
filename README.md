@@ -8,4 +8,4 @@ This repository contains four functions that comprise a Matlab GUI for a geother
 4. gwell_plot.m - Reads output files and visualizes the data.
 
 ### Video Demo
-A brief [video demonstration][gwell_demo.mov "Video Demo"] of GWELL usage.
+A brief [video demonstration](gwell_demo.mov "Video Demo") of GWELL usage.
